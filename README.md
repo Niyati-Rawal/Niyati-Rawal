@@ -1,207 +1,243 @@
-# 🚀 How to Deploy Your Portfolio on GitHub Pages
-### A complete guide for Niyati Raval's portfolio — https://niyati-rawal.github.io/portfolio
----
+<!-- Niyati Raval | Niyati Rawal | Full Stack Developer Ahmedabad | Python Django Developer India | BISAG-N | niyati-raval18 | niyati513@gmail.com -->
 
-## PART 1 — Upload Your Portfolio Files
+<div align="center">
 
-### Step 1: Create a new GitHub repository
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04091a,30:0a1f6e,60:1a3a8f,100:2a5ab8&height=220&section=header&text=Niyati%20Raval&fontSize=60&fontColor=c4d9f5&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20Django%20%E2%80%A2%20React&descSize=18&descAlignY=58&descColor=7eb0ef&animation=fadeIn" width="100%" alt="Niyati Raval — Full Stack Developer"/>
 
-1. Go to [github.com](https://github.com) and log in as **Niyati-Rawal**
-2. Click the **+** icon (top-right) → **New repository**
-3. Name it exactly: `portfolio`
-   - ✅ Full repo name: `Niyati-Rawal/portfolio`
-4. Set it to **Public**
-5. ✅ Check "Add a README file"
-6. Click **Create repository**
+</div>
 
----
+<div align="center">
 
-### Step 2: Upload your files
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=700&size=18&pause=1400&color=77C27A&center=true&vCenter=true&width=760&lines=niyati%40dev%3A~%24+whoami+%F0%9F%8C%9F;Senior+Full+Stack+Developer+%E2%80%A2+4%2B+Years+%F0%9F%9A%80;Python+%7C+Django+%7C+DRF+%7C+FastAPI+%7C+Flask;React+%7C+PostgreSQL+%7C+Redis+%7C+Docker+%7C+Nginx;niyati%40dev%3A~%24+brew+chai+%26%26+git+push+%E2%98%95;Building+things+worth+staying+up+for+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-Your portfolio needs this folder structure:
+</div>
 
-```
-portfolio/
-├── index.html          ← main file (already done ✅)
-├── style.css           ← your styles (already done ✅)
-├── mediaqueries.css    ← responsive styles (already done ✅)
-├── script.js           ← your JavaScript (already done ✅)
-└── assets/
-    ├── nr.png          ← your profile photo (already done ✅)
-    └── NewResume_Niyati_Raval.pdf   ← your resume (already done ✅)
-```
+<br/>
 
-**To upload:**
-1. Go to your new `portfolio` repo on GitHub
-2. Click **Add file** → **Upload files**
-3. Drag and drop: `index.html`, `style.css`, `mediaqueries.css`, `script.js`
-4. Click **Commit changes**
-5. Now create the `assets` folder:
-   - Click **Add file** → **Create new file**
-   - Type `assets/placeholder.txt` in the name field
-   - Add any text, commit it — this creates the folder
-6. Go into the `assets` folder, click **Add file** → **Upload files**
-7. Upload: `nr.png` and `NewResume_Niyati_Raval.pdf`
-8. Commit changes
+<div align="center">
 
-> **⚠️ Important:** In your `index.html`, the image path is `assets/nr.png` — this will work correctly once the `assets/` folder is created.
+![Profile Views](https://komarev.com/ghpvc/?username=Niyati-Rawal&color=0a1f6e&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Niyati-Rawal?style=for-the-badge&color=0a1f6e&labelColor=04091a&label=FOLLOWERS)](https://github.com/Niyati-Rawal)
+&nbsp;
+![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-22cc77?style=for-the-badge&logo=checkmarx&logoColor=white)
+&nbsp;
+![Location](https://img.shields.io/badge/%F0%9F%93%8D_Ahmedabad-Gujarat%2C_India-0a1f6e?style=for-the-badge)
+
+</div>
+
+<br/>
 
 ---
 
-### Step 3: Enable GitHub Pages
+<img align="right" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="270" alt="Coding GIF"/>
 
-1. In your `portfolio` repo, click **Settings** (top menu)
-2. Scroll down to **Pages** in the left sidebar
-3. Under **Source**, select **Deploy from a branch**
-4. Under **Branch**, select `main` → `/ (root)`
-5. Click **Save**
-6. Wait ~2 minutes ⏳
-7. Refresh — you'll see:
-   > ✅ **Your site is live at: `https://niyati-rawal.github.io/portfolio`**
+### 🌙 &nbsp; `whoami`
 
-**That's it! Your portfolio is live! 🎉**
+> **"People need oxygen, food, sleep, and shelter to live.**
+> **I need one more thing — writing out my mind."**
 
----
+I'm **Niyati Raval** — a Senior Full Stack Developer from **Ahmedabad, India** with **4+ years** shipping production systems at scale.
 
-## PART 2 — Set Up Your Profile README
+By day I build scalable APIs, microservices, and geospatial web apps at **BISAG-N** (Bhaskaracharya Institute for Space Applications and Geoinformatics, Gandhinagar). By night — chai ☕, code, and whatever's on my mind.
 
-The profile README is what people see when they visit `github.com/Niyati-Rawal`. It's a special repository.
+The things I **build** and the things I **feel** come from the same place — somewhere between the last sip of chai and the next `git push`.
 
-### Step 4: Create your profile repository
+**🔗 Portfolio:** [niyati-rawal.github.io/portfolio](https://niyati-rawal.github.io/portfolio)
 
-1. Go to GitHub → **+** → **New repository**
-2. Name it exactly: `Niyati-Rawal`
-   - ✅ It must match your username exactly (capital N, capital R, hyphen)
-   - Full name: `Niyati-Rawal/Niyati-Rawal`
-3. Set to **Public**
-4. ✅ Check "Add a README file"
-5. Click **Create repository**
-6. GitHub will say: *"✨ Niyati-Rawal/Niyati-Rawal is a special repository."*
-
-### Step 5: Add the README.md content
-
-1. In the `Niyati-Rawal` repo, click the **README.md** file
-2. Click the **pencil icon** ✏️ (Edit this file)
-3. **Select all** the existing content and **delete** it
-4. **Paste** the full content from the `README.md` file provided with this guide
-5. Click **Commit changes** → **Commit directly to main**
+<br clear="right"/>
 
 ---
 
-## PART 3 — Update the Portfolio URL
+### 🖥️ &nbsp; `niyati@dev` terminal
 
-After Step 3, your live URL is `https://niyati-rawal.github.io/portfolio`
-
-In the README.md, this line already has that URL:
-```
-[![Portfolio](https://img.shields.io...)](https://niyati-rawal.github.io/portfolio)
-```
-✅ No change needed — it's already correct!
-
-Also update your portfolio's `index.html` — the GitHub icon link already points to your profile, which is correct.
-
----
-
-## PART 4 — Set Up the Snake Animation (Optional but cool 🐍)
-
-The contribution snake animation needs a GitHub Action to generate it.
-
-1. In the `Niyati-Rawal` (profile) repo, click **Actions** tab
-2. Click **New workflow** → **set up a workflow yourself**
-3. Name the file: `snake.yml`
-4. Paste this content:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight
-  workflow_dispatch:       # manual trigger
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```bash
+┌──(niyati@dev)-[~/workspace] 🌙
+│
+├── $ whoami
+│   Niyati Raval — Senior Full Stack Dev · chai addict · night owl ✍️
+│   📍 Ahmedabad, Gujarat, India
+│
+├── $ cat experience.txt
+│   4+ years @ BISAG-N, Gandhinagar
+│   Microservices · REST APIs · Geospatial Web Apps · Automation Scripts
+│
+├── $ ls -la stack/
+│   drwxr-xr-x  backend/   →  Python  Django  DRF  FastAPI  Flask
+│   drwxr-xr-x  frontend/  →  React  JavaScript  HTML  CSS  Bootstrap
+│   drwxr-xr-x  infra/     →  Docker  Nginx  Redis  PostgreSQL  Gunicorn
+│   drwxr-xr-x  vcs/       →  Git  SVN
+│   -rw-r--r--  chai.log   →  ∞ cups consumed ☕
+│
+├── $ git log --oneline -4
+│   a3f9c12  feat: shipped geospatial REST API at scale 🚀
+│   b81e440  fix: the Redis cache bug I introduced at 3am 💀
+│   c920ff1  chore: microservices refactor + Docker deploy 🐳
+│   d44a8e3  feat: automated email notifications with SMTP ✉️
+│
+└── $ _
 ```
 
-5. Click **Commit changes**
-6. Go to **Actions** → click the workflow → **Run workflow** (manual trigger)
-7. Wait ~1 min → the SVG is generated on the `output` branch
-8. The README already references: `...Niyati-Rawal/output/github-contribution-grid-snake-dark.svg` ✅
+---
+
+### 🛠️ &nbsp; Stack I live inside
+
+<div align="center">
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-04091a?style=for-the-badge&logo=python&logoColor=7eb0ef)
+![Django](https://img.shields.io/badge/Django-04091a?style=for-the-badge&logo=django&logoColor=7ec890)
+![DRF](https://img.shields.io/badge/Django_REST-04091a?style=for-the-badge&logo=django&logoColor=c4d9f5)
+![FastAPI](https://img.shields.io/badge/FastAPI-04091a?style=for-the-badge&logo=fastapi&logoColor=7ec890)
+![Flask](https://img.shields.io/badge/Flask-04091a?style=for-the-badge&logo=flask&logoColor=c4d9f5)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-04091a?style=for-the-badge&logo=react&logoColor=61dafb)
+![JavaScript](https://img.shields.io/badge/JavaScript-04091a?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![HTML5](https://img.shields.io/badge/HTML5-04091a?style=for-the-badge&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-04091a?style=for-the-badge&logo=css3&logoColor=1572b6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-04091a?style=for-the-badge&logo=bootstrap&logoColor=7952b3)
+
+**Infra & DB**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-04091a?style=for-the-badge&logo=postgresql&logoColor=7eb0ef)
+![Redis](https://img.shields.io/badge/Redis-04091a?style=for-the-badge&logo=redis&logoColor=dc382d)
+![Docker](https://img.shields.io/badge/Docker-04091a?style=for-the-badge&logo=docker&logoColor=2496ed)
+![Nginx](https://img.shields.io/badge/Nginx-04091a?style=for-the-badge&logo=nginx&logoColor=009639)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-04091a?style=for-the-badge&logo=gunicorn&logoColor=499848)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-04091a?style=for-the-badge&logo=git&logoColor=f05032)
+![VS Code](https://img.shields.io/badge/VSCode-04091a?style=for-the-badge&logo=visual-studio-code&logoColor=007acc)
+![Postman](https://img.shields.io/badge/Postman-04091a?style=for-the-badge&logo=postman&logoColor=ff6c37)
+![Linux](https://img.shields.io/badge/Linux-04091a?style=for-the-badge&logo=linux&logoColor=fcc624)
+
+</div>
 
 ---
 
-## PART 5 — SEO Tips (Get Found on Google)
+### 🚀 &nbsp; Journey so far
 
-These things are already done in the README, but here's what helps Google find "Niyati Raval":
-
-| What | Where | Status |
-|------|-------|--------|
-| Your real name in the bio | GitHub profile Settings → Bio | ✅ Add "Niyati Raval" |
-| Name in README headings | README.md | ✅ Done |
-| Name in alt text of images | README.md | ✅ Done |
-| SEO comment keywords in HTML | README.md | ✅ Done |
-| LinkedIn URL in README | README.md | ✅ Done |
-| Portfolio website URL | README.md | ✅ Done |
-| GitHub profile bio | Settings → Public profile | 👉 Add manually |
-
-### Set your GitHub profile bio (important for SEO!):
-1. Click your avatar → **Settings**
-2. Fill in:
-   - **Name:** `Niyati Raval`
-   - **Bio:** `Full Stack Developer · Python · Django · DRF · FastAPI · Ahmedabad, India`
-   - **Location:** `Ahmedabad, Gujarat, India`
-   - **Website:** `https://niyati-rawal.github.io/portfolio`
-3. Click **Update profile**
+| Year | Role | Highlights |
+|:----:|------|------------|
+| **2021** 🌱 | Research Assistant @ DIC, GTU | Literature reviews · startup mentorship · lab coordination |
+| **2022** 🌊 | Junior Developer @ BISAG-N | First Python · first deploy · first 2am bug · automation scripts |
+| **2023** 🔧 | Full Stack Dev @ BISAG-N | Django + Nginx + Gunicorn · CI/CD · Microservices architecture |
+| **2024** ⚡ | Mid-Level Backend @ BISAG-N | Redis caching · PostgreSQL tuning · geospatial APIs at scale |
+| **2025** 🚀 | **Senior Full Stack @ BISAG-N** | **End-to-end ownership** · chai + code = full stack life |
 
 ---
 
-## PART 6 — Fix Image Path in index.html
+### 🌌 &nbsp; The three pillars
 
-Open your `index.html` and find this line:
-```html
-<img src="assets/nr.png" alt="Niyati Raval" class="profile-img">
-```
-✅ This is already correct! The `assets/` folder path will work with GitHub Pages.
+<div align="center">
 
-Also find the CV button:
-```html
-onclick="window.open('./assets/NewResume_Niyati_Raval.pdf')"
-```
-✅ This is already correct too!
+| ☕ chai | 💻 code | 🛰️ geospatial |
+|:---:|:---:|:---:|
+| **THE RITUAL** | **THE CRAFT** | **THE MISSION** |
+| before every commit | Django · DRF · FastAPI | BISAG-N · space apps |
+| non-negotiable since 2022 | APIs · React · Docker | geospatial web platforms |
+| midnight chai → best ideas | microservices at scale | satellite data pipelines |
+| *"fuel for two worlds"* | *"logic is my language"* | *"mapping what matters"* |
 
----
-
-## Summary — Final Checklist
-
-```
-[ ] Created repo: Niyati-Rawal/portfolio
-[ ] Uploaded: index.html, style.css, mediaqueries.css, script.js
-[ ] Created assets/ folder with nr.png and resume PDF
-[ ] Enabled GitHub Pages → site is live
-[ ] Created repo: Niyati-Rawal/Niyati-Rawal (profile README)
-[ ] Pasted README.md content into the profile repo
-[ ] Set GitHub profile bio with your name + location
-[ ] (Optional) Set up snake animation GitHub Action
-```
-
-**Your live URLs after all steps:**
-- 🌐 **Portfolio:** `https://niyati-rawal.github.io/portfolio`
-- 👤 **GitHub Profile:** `https://github.com/Niyati-Rawal`
+</div>
 
 ---
 
-*Made with ☕ chai and a lot of git pushes — Niyati Raval*
+### 🦉 &nbsp; Night owl schedule
+
+```
+🌞 Morning    ████░░░░░░░░░░░░░░░░   12%   →  chai + standup
+🌆 Daytime    ████████░░░░░░░░░░░░   32%   →  build, ship, review
+🌃 Evening    ██████████░░░░░░░░░░   38%   →  deep work mode 🔥
+🌙 Night      ████░░░░░░░░░░░░░░░░   18%   →  debug + write ✍️
+```
+
+---
+
+### ⚡ &nbsp; Currently
+
+```bash
+✦  building scalable REST APIs with Django & DRF               🐍
+✦  containerizing everything with Docker                        🐳
+✦  caching smartly with Redis
+✦  geospatial web applications @ BISAG-N, Gandhinagar           🛰️
+✦  portfolio live → niyati-rawal.github.io/portfolio            🌐
+✦  chai inventory: CRITICALLY LOW ☕ (emergency restock)
+✦  open to work — let's build something worth staying up for    🚀
+```
+
+---
+
+### ⚡ &nbsp; Fun facts
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="70" align="right" alt="Wave"/>
+
+- 🛰️ &nbsp; My code helps process **satellite imagery** at a national space research institute
+- 🐛 &nbsp; Debugged more bugs than pages read *(still reading though)*
+- 🌙 &nbsp; Best ideas at **2am**, best bugs fixed at **3am** *(pattern? absolutely.)*
+- ☕ &nbsp; Chai is the **real** version control — commit, sip, repeat
+- ✍️ &nbsp; Once wrote a whole feeling inside a Django migration comment. zero regrets.
+- 😄 &nbsp; *"will fix the bug after one more chai"* — always a lie, always said
+- 🎯 &nbsp; The things I build and the things I feel come from the same place
+
+---
+
+### 🎧 &nbsp; Currently playing
+
+[![Spotify](https://img.shields.io/badge/%F0%9F%8E%B5_Han_Tu_Hai-K.K._%C2%B7_2am_playlist-1a0a38?style=for-the-badge&logo=spotify&logoColor=c080f8&labelColor=140a30)](https://open.spotify.com)
+
+> *plays K.K. & Rahat Fateh Ali Khan on all-nighters. no explanation needed.*
+
+---
+
+### 📊 &nbsp; GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Niyati-Rawal&show_icons=true&hide_border=true&bg_color=04091a&title_color=7eb0ef&icon_color=4a88d8&text_color=c4d9f5&ring_color=2a5ab8&count_private=true&include_all_commits=true" alt="Niyati Raval GitHub Stats"/>
+&ensp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niyati-Rawal&layout=compact&hide_border=true&bg_color=04091a&title_color=7eb0ef&text_color=c4d9f5&langs_count=8" alt="Niyati Raval Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=Niyati-Rawal&hide_border=true&background=04091a&ring=2a5ab8&fire=4a88d8&currStreakLabel=7eb0ef&sideLabels=7eb0ef&dates=2e4a72&stroke=071428&currStreakNum=c4d9f5&sideNums=c4d9f5" alt="Niyati Raval GitHub Streak"/>
+
+</div>
+
+---
+
+### 🌌 &nbsp; Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Niyati-Rawal/Niyati-Rawal/output/github-contribution-grid-snake-dark.svg" alt="Niyati Raval contribution snake"/>
+</div>
+
+> ⚙️ To activate the snake: go to your `Niyati-Rawal` repo → **Actions** tab → **New workflow** → paste the snake YAML → run it once manually.
+
+---
+
+### 🤝 &nbsp; Let's connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-niyati--rawal.github.io-04091a?style=for-the-badge&logo=githubpages&logoColor=7eb0ef)](https://niyati-rawal.github.io/portfolio)
+&ensp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-niyati--raval18-04091a?style=for-the-badge&logo=linkedin&logoColor=7eb0ef)](https://linkedin.com/in/niyati-raval18)
+&ensp;
+[![Gmail](https://img.shields.io/badge/Gmail-niyati513%40gmail.com-04091a?style=for-the-badge&logo=gmail&logoColor=c4d9f5)](mailto:niyati513@gmail.com)
+&ensp;
+[![GitHub](https://img.shields.io/badge/GitHub-Niyati--Rawal-04091a?style=for-the-badge&logo=github&logoColor=c4d9f5)](https://github.com/Niyati-Rawal)
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4a9fff,30:1a4fd8,60:0a1f6e,100:010614&height=130&section=footer&text=chai%20%E2%98%95%20%C2%B7%20code%20%F0%9F%92%BB%20%C2%B7%20build%20what%20you%20feel%20%E2%9C%8D%EF%B8%8F&fontSize=17&fontColor=8ab8f0&fontAlignY=65&animation=fadeIn" alt="Niyati Raval Footer"/>
+
+<!-- SEO: Niyati Raval | Niyati Rawal | Full Stack Developer Ahmedabad Gujarat India | Python Django DRF FastAPI Developer | BISAG-N Software Developer | niyati-raval18 | niyati513@gmail.com | Niyati Raval GitHub portfolio -->

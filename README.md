@@ -1,6 +1,5 @@
 # 🚀 How to Deploy Your Portfolio on GitHub Pages
-### A complete guide for Niyati Raval's portfolio — niyati513@gmail.com](https://niyati-rawal.github.io/portfolio)
-
+### A complete guide for Niyati Raval's portfolio — https://niyati-rawal.github.io/portfolio
 ---
 
 ## PART 1 — Upload Your Portfolio Files

@@ -1,4 +1,4 @@
-<!-- Niyati Raval | Niyati Rawal | Full Stack Developer Ahmedabad | Python Django Developer India | BISAG-N | niyati-raval18 | niyati513@gmail.com -->
+<!-- Niyati Raval | Full Stack Developer Ahmedabad | Python Django Developer India | niyati-raval18 | niyati513@gmail.com -->
 
 <div align="center">
 
@@ -39,7 +39,7 @@
 
 I'm **Niyati Raval** — a Senior Full Stack Developer from **Ahmedabad, India** with **4+ years** shipping production systems at scale.
 
-By day I build scalable APIs, microservices, and geospatial web apps at **BISAG-N** (Bhaskaracharya Institute for Space Applications and Geoinformatics, Gandhinagar). By night — chai ☕, code, and whatever's on my mind.
+I build scalable APIs, microservices, and full-stack web applications. By night — chai ☕, code, and whatever's on my mind.
 
 The things I **build** and the things I **feel** come from the same place — somewhere between the last sip of chai and the next `git push`.
 
@@ -59,8 +59,8 @@ The things I **build** and the things I **feel** come from the same place — so
 │   📍 Ahmedabad, Gujarat, India
 │
 ├── $ cat experience.txt
-│   4+ years @ BISAG-N, Gandhinagar
-│   Microservices · REST APIs · Geospatial Web Apps · Automation Scripts
+│   4+ years of full-stack development
+│   Microservices · REST APIs · Web Applications · Automation Scripts
 │
 ├── $ ls -la stack/
 │   drwxr-xr-x  backend/   →  Python  Django  DRF  FastAPI  Flask
@@ -70,7 +70,7 @@ The things I **build** and the things I **feel** come from the same place — so
 │   -rw-r--r--  chai.log   →  ∞ cups consumed ☕
 │
 ├── $ git log --oneline -4
-│   a3f9c12  feat: shipped geospatial REST API at scale 🚀
+│   a3f9c12  feat: shipped scalable REST API at scale 🚀
 │   b81e440  fix: the Redis cache bug I introduced at 3am 💀
 │   c920ff1  chore: microservices refactor + Docker deploy 🐳
 │   d44a8e3  feat: automated email notifications with SMTP ✉️
@@ -124,10 +124,10 @@ The things I **build** and the things I **feel** come from the same place — so
 | Year | Role | Highlights |
 |:----:|------|------------|
 | **2021** 🌱 | Research Assistant @ DIC, GTU | Literature reviews · startup mentorship · lab coordination |
-| **2022** 🌊 | Junior Developer @ BISAG-N | First Python · first deploy · first 2am bug · automation scripts |
-| **2023** 🔧 | Full Stack Dev @ BISAG-N | Django + Nginx + Gunicorn · CI/CD · Microservices architecture |
-| **2024** ⚡ | Mid-Level Backend @ BISAG-N | Redis caching · PostgreSQL tuning · geospatial APIs at scale |
-| **2025** 🚀 | **Senior Full Stack @ BISAG-N** | **End-to-end ownership** · chai + code = full stack life |
+| **2022** 🌊 | Junior Developer | First Python · first deploy · first 2am bug · automation scripts |
+| **2023** 🔧 | Full Stack Developer | Django + Nginx + Gunicorn · CI/CD · Microservices architecture |
+| **2024** ⚡ | Mid-Level Backend Developer | Redis caching · PostgreSQL tuning · high-scale APIs |
+| **2025** 🚀 | **Senior Full Stack Developer** | **End-to-end ownership** · chai + code = full stack life |
 
 ---
 
@@ -135,13 +135,13 @@ The things I **build** and the things I **feel** come from the same place — so
 
 <div align="center">
 
-| ☕ chai | 💻 code | 🛰️ geospatial |
+| ☕ chai | 💻 code | 🔧 systems |
 |:---:|:---:|:---:|
 | **THE RITUAL** | **THE CRAFT** | **THE MISSION** |
-| before every commit | Django · DRF · FastAPI | BISAG-N · space apps |
-| non-negotiable since 2022 | APIs · React · Docker | geospatial web platforms |
-| midnight chai → best ideas | microservices at scale | satellite data pipelines |
-| *"fuel for two worlds"* | *"logic is my language"* | *"mapping what matters"* |
+| before every commit | Django · DRF · FastAPI | scalable APIs |
+| non-negotiable since 2022 | React · Docker · Redis | microservices architecture |
+| midnight chai → best ideas | APIs at scale | clean, maintainable systems |
+| *"fuel for two worlds"* | *"logic is my language"* | *"built to last"* |
 
 </div>
 
@@ -164,7 +164,7 @@ The things I **build** and the things I **feel** come from the same place — so
 ✦  building scalable REST APIs with Django & DRF               🐍
 ✦  containerizing everything with Docker                        🐳
 ✦  caching smartly with Redis
-✦  geospatial web applications @ BISAG-N, Gandhinagar           🛰️
+✦  designing clean microservices architecture                   🔧
 ✦  portfolio live → niyati-rawal.github.io/portfolio            🌐
 ✦  chai inventory: CRITICALLY LOW ☕ (emergency restock)
 ✦  open to work — let's build something worth staying up for    🚀
@@ -176,7 +176,6 @@ The things I **build** and the things I **feel** come from the same place — so
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="70" align="right" alt="Wave"/>
 
-- 🛰️ &nbsp; My code helps process **satellite imagery** at a national space research institute
 - 🐛 &nbsp; Debugged more bugs than pages read *(still reading though)*
 - 🌙 &nbsp; Best ideas at **2am**, best bugs fixed at **3am** *(pattern? absolutely.)*
 - ☕ &nbsp; Chai is the **real** version control — commit, sip, repeat
@@ -240,4 +239,4 @@ The things I **build** and the things I **feel** come from the same place — so
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4a9fff,30:1a4fd8,60:0a1f6e,100:010614&height=130&section=footer&text=chai%20%E2%98%95%20%C2%B7%20code%20%F0%9F%92%BB%20%C2%B7%20build%20what%20you%20feel%20%E2%9C%8D%EF%B8%8F&fontSize=17&fontColor=8ab8f0&fontAlignY=65&animation=fadeIn" alt="Niyati Raval Footer"/>
 
-<!-- SEO: Niyati Raval | Niyati Rawal | Full Stack Developer Ahmedabad Gujarat India | Python Django DRF FastAPI Developer | BISAG-N Software Developer | niyati-raval18 | niyati513@gmail.com | Niyati Raval GitHub portfolio -->
+<!-- SEO: Niyati Raval | Full Stack Developer Ahmedabad Gujarat India | Python Django DRF FastAPI Developer | niyati-raval18 | niyati513@gmail.com | Niyati Raval GitHub portfolio -->

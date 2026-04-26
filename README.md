@@ -43,7 +43,7 @@ I build scalable APIs, microservices, and full-stack web applications. By night 
 
 The things I **build** and the things I **feel** come from the same place — somewhere between the last sip of chai and the next `git push`.
 
-**🔗 Portfolio:** [niyati-rawal.github.io/portfolio](https://niyati-rawal.github.io/portfolio)
+**🔗 Portfolio:** [https://niyati-rawal.netlify.app/](https://niyati-rawal.netlify.app/)
 
 <br clear="right"/>
 

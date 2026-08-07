@@ -52,12 +52,12 @@ class NiyatiRaval:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Niyati-Rawal&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Niyati-Rawal&theme=react&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Niyati-Rawal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niyati-Rawal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niyati-Rawal&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=8B5CF6" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Niyati-Rawal&theme=tokyonight&hide_border=true" />
 </p>
 
 <br/>
@@ -79,7 +79,7 @@ class NiyatiRaval:
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Niyati-Rawal&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=ffffff" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Niyati-Rawal&theme=tokyo-night&hide_border=true" />
 </p>
 
 <br/>

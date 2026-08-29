@@ -180,7 +180,7 @@ I'm always interested in:
 
 <div align="center">
 
-### 🌐 **[Visit My Portfolio](https://niyati-raval.netlify.app/)** | 📧 **[Get in Touch](mailto:niyati513@gmail.com)**
+### 🌐 **[Visit My Portfolio](https://niyati-rawal.netlify.app/)** | 📧 **[Get in Touch](mailto:niyati513@gmail.com)**
 
 </div>
 
